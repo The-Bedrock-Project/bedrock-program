@@ -21,33 +21,9 @@ We are here to give the Church the tools to measure the difference.
 
 The Bible has always taught that truth is self-sustaining. What is real does not need permission to remain real. What is false cannot stand on its own — it must be held up.
 
-Modern structural mathematics has now formalized this ancient truth.
-
-The CRIS framework — Consistency, Recursion, Invariance, Selection — establishes that any persistent entity must satisfy four structural conditions. Any system that violates them cannot maintain a stable identity. It will drift, collapse, or require external force to survive.
+Modern structural research has now formalized this ancient truth.
 
 We did not invent this. We discovered it. Our faith aimed us at it. And then we built the tools to measure it.
-
------
-
-## The Audit
-
-We audited 60 foundational laws across physics, biology, mathematics, logic, information theory, chemistry, economics, game theory, and neuroscience against the four CRIS axioms.
-
-**57 passed. 3 failed.**
-
-The three that failed are the right three:
-
-|Law                   |Domain   |Failure      |Why                                                                      |
-|----------------------|---------|-------------|-------------------------------------------------------------------------|
-|Pareto Principle      |Economics|A4: Selection|Describes concentration dynamics, not a contractive attractor. Divergent.|
-|Dunbar’s Number       |Social   |A4: Selection|A cognitive heuristic, not a self-restoring law. No return-to-self.      |
-|Tragedy of the Commons|Social   |A4: Selection|Describes a breakdown mode. Its fixed point is collapse.                 |
-
-These are not bugs. They are the correct result. The audit correctly distinguishes laws that govern persistent entities from patterns, heuristics, and failure modes that do not.
-
-Every major law of physics, biology, logic, chemistry, and mathematics passed. The ones that failed were never laws in the structural sense — they were always descriptions of breakdown.
-
-The audit is fully reproducible. Run it yourself.
 
 -----
 
@@ -71,54 +47,50 @@ The primary public instrument of The Bedrock Program — a three-step structural
 
 Built on one question: **Does this truth stay, or does it have to be held?**
 
-**The three signatures of a maintained narrative:**
+-----
 
-- **Response Compression** — Every question leads back to the same small set of approved answers
-- **Burden Asymmetry** — You are required to disprove the claim rather than the claim being required to prove itself
-- **Authority Substitution** — Evidence is replaced by the invocation of authority as a terminal endpoint
+### The Three Signatures of a Maintained Narrative
 
-**The verdict is structural, not personal.**
+**Response Compression**
+Every question leads back to the same small set of approved answers. The inquiry space is being compressed. A self-sustaining truth expands under questioning. A maintained narrative contracts.
 
-If the weight of proof is on the Truth — you are standing on Bedrock.
-If the weight of proof is on You — you are standing in a cage.
+**Burden Asymmetry**
+You are required to disprove the claim rather than the claim being required to prove itself. The standard of proof is applied asymmetrically. This is not an intellectual error — it is a structural signature of a maintained system.
 
-See `maintenance_test.docx` in this repository.
+**Authority Substitution**
+Evidence is replaced by the invocation of authority as a terminal endpoint. The authority is not offered as one source among many — it is offered as a reason to stop asking.
+
+-----
+
+### The Verdict
+
+**If the weight of proof is on the Truth — you are standing on Bedrock.**
+
+**If the weight of proof is on You — you are standing in a cage.**
+
+Truth is a gift you receive. A narrative is a burden you are forced to carry.
+
+See `maintenance_test.docx` in this repository for the full three-step field guide.
 
 -----
 
 ## What Is In This Repository
 
-This repository contains the public verification layer of The Bedrock Program. It is here so that anyone can audit the work independently.
-
 ```
 README.md                      — This document
 MISSION.md                     — Who we are, why we exist, why faith led the research
+LICENSE.md                     — Terms of use
 bedrock_statement.docx         — What Must Be True Before Anything Can Be True
 maintenance_test.docx          — The Maintenance Test: A Structural Field Guide for Discernment
-strict_audit.py                — The CRIS audit engine (Python 3.7+, no dependencies)
-laws_strict.json               — The 60-law corpus used in the audit
-strict_audit_results.csv       — The audit output (57/60 passed)
-audit_proof_*.json             — Tamper-evident proof artifacts with SHA-256 hashes
-engine_explainer.md            — Plain language explanation of the audit engine
 ```
-
-**To run the audit yourself:**
-
-```bash
-python strict_audit.py
-```
-
-Python 3.7 or higher. No pip installs. No external dependencies. Runs on any machine.
-
-Every run produces a proof artifact — a JSON file containing the full results and SHA-256 hashes of both the input and the output. The hashes are tamper-evident. If anyone modifies the data, the hashes change. The audit is independently verifiable.
 
 -----
 
 ## What Is Not In This Repository
 
-The foundational research papers, contraction engine methodology, and empirical datasets are protected intellectual property of NohMad LLC.
+The research architecture, audit methodology, data infrastructure, and formal derivations underlying The Bedrock Program are protected intellectual property of NohMad LLC.
 
-This repository contains the public verification layer — enough to confirm the audit is real, the results are correct, and the methodology is sound. The underlying research program is documented separately and made available through The Bedrock Program’s distribution channels.
+This repository contains the public-facing instruments of the program. The underlying research is documented separately and made available through The Bedrock Program’s distribution channels.
 
 -----
 
@@ -142,7 +114,7 @@ Content, syndication, public packaging, closing the loop between research and re
 
 ## The Mission
 
-We are building tools for the Church because the Church has always known what structural mathematics is now proving:
+We are building tools for the Church because the Church has always known what structural research is now proving:
 
 What is built on the Rock stands. What is built on Sand falls.
 
