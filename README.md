@@ -134,7 +134,7 @@ The Bedrock Program is independently funded. We do not accept institutional gran
 
 If this work matters to you, support it directly:
 
-**[Fund The Bedrock Program on GiveSendGo](https://givesendgo.com)**
+**[Fund The Bedrock Program on GiveSendGo](https://www.givesendgo.com/Bedrock-Program)**
 
 Your selection provides the solvency for the next phase of the program.
 
