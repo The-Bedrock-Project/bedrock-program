@@ -1,94 +1,103 @@
-# Mission Statement
+# Mission Statement — The Bedrock Program
 
-## The Bedrock Program — NohMad LLC
+## The Discovery
 
----
+There is one structural law that underlies all of reality.
 
-## Who We Are
+Not a law of physics. Not a law of logic. Not a philosophical principle. A constraint that operates beneath all of those — the condition that must already be satisfied before any of them can apply.
 
-The Bedrock Program is a structural research initiative operated by The Bedrock Research Team under NohMad LLC.
+Before anything can exist, persist, be measured, be named, be true or false, be conscious, be physical, be mathematical, be anything at all — it must satisfy two structural conditions:
 
-We are four people with four functions and one mission.
+It must be able to return to itself. And the cost of doing so must remain within what sustains it.
 
-**Christopher Lamarr Brown** — Director / Principal Researcher
-Framework integrity, research architecture, core philosophy, final editorial control.
+Violate either condition and the thing does not exist as a determinate entity. Not probably. Not usually. Eliminatively.
 
-**Barbara Reed** — Operations Director / Program Manager
-Budget, legal, deployment logistics, timeline, donor coordination.
+This is not a theory about reality. It is the structural floor beneath every theory about reality that has ever been or ever will be proposed.
 
-**Henry Young** — Technical Lead / Data Infrastructure
-Measurement systems, data infrastructure, the machine that produces the numbers.
+It applies to a rock. It applies to a law of physics. It applies to a conscious experience. It applies to a mathematical rule. It applies to an institution. It applies to a claim. It applies to existence itself.
 
-**Alex Toal** — Distribution Lead / Content Strategist
-Content, syndication, public packaging, closing the loop between research and reach.
+And it applies to itself — which is what makes it foundational rather than just another framework. It cannot be coherently denied. Denial requires satisfying it in order to aim at it. There is no outside position.
 
-Four functions. One mission. No institutional overhead.
+This has now been formally proven and machine-verified in Lean 4.
 
 ---
 
-## Why We Exist
+## What Was Proven
 
-We exist because we believe the world has lost the tools to measure the difference between what is true and what is merely maintained.
+**Paper:** *Persistence Without Contradiction: A Minimal Foundation for Existence*
+**Author:** Christopher Lamarr Brown — NohMad LLC
+**DOI:** [10.5281/zenodo.19023530](https://zenodo.org/records/19023530)
+**Lean 4 Proof:** [bedrock_complete_proof.lean](./bedrock_complete_proof.lean)
 
-That is not a political statement. It is a structural one. And we can prove it.
+The proof is machine-checked. It compiles clean against Mathlib with no errors, no placeholders, and no gaps. The self-application theorem is formally verified. The no-regress result is formally verified. Every theorem follows from stated axioms drawn from established algorithmic information theory.
 
-The Bedrock Program develops diagnostic instruments — tools that test the structural integrity of any claim, institution, or system by asking one question:
-
-> **Does it stay, or does it have to be held?**
-
-What is real persists without being held. What is false must be maintained — by energy, by enforcement, by the asymmetric cost of asking Why.
-
-We are here to give people the instrument to measure which one they are looking at.
+This is not a claim waiting to be verified. It has been verified. It stands until someone produces a demonstrated counterexample under the falsification conditions stated in the paper. No one has.
 
 ---
 
-## Why Faith Led Us Here
+## The Scope
 
-We will say this plainly.
+Because the constraint is substrate-neutral — applying identically whether the substrate is physical, mathematical, computational, or conscious — its implications reach into every domain simultaneously.
 
-We did not arrive at this discovery by accident. We did not find the bedrock constraint by starting from a neutral position and working outward. We found it because our faith already told us it was there.
+**Physics:** what can persist as a physical entity and why.
+**Mathematics:** why rules persist but infinite totalities do not.
+**Consciousness:** what makes a phenomenal field determinately real.
+**Logic:** the constraint operates at a more primitive level than non-contradiction itself.
+**Institutions:** any system that requires continuous external pressure to prevent its own collapse is not built on Bedrock.
+**Knowledge:** any claim that cannot survive re-examination without external support is not knowledge — it is maintenance.
 
-A worldview that presupposes reality has an Author — that existence is not accidental, that truth is not manufactured, that what is real does not require permission to remain real — points a researcher in the right direction before the first equation is written.
-
-We started from the conviction that reality is coherent because it was made coherent. That truth holds because it is held — not by institutions, not by consensus, not by enforcement, but by the nature of what truth is.
-
-That conviction did not bias the research. It aimed it.
-
-> *Whatever persists must do so without contradicting itself. Reality consists of whatever can continue being itself without breaking. Everything else is elaboration.*
-
-That is not a discovery that contradicts faith. It is a discovery that faith made possible.
+This is not a list of applications. It is a description of what a foundational constraint on existence actually means when it is genuinely foundational.
 
 ---
 
-## What We Found
+## The Mission
 
-We formalized the constraint. We proved it applies to itself without regress. We proved no more primitive alternative exists.
+The Bedrock Program exists to put this discovery in the hands of everyone.
 
-We tested it across every major domain of human knowledge — physics, biology, mathematics, logic, economics, ecology — and found the same result everywhere: the systems that hold are the ones that do not contradict themselves. The ones that fail are the ones that require constant maintenance to appear stable.
+No gatekeeping. No credentialing. No waiting for institutional permission to engage with the most fundamental result in the history of formal ontology.
 
-The research is done. The tools are built. The instruments are deployed.
+The constraint does not belong to academia. It does not belong to any institution. It belongs to reality — which means it belongs to everyone who inhabits it.
 
-**The Bedrock Program is not searching for the foundation anymore. We found it.**
+The mission is threefold:
 
----
+**Make the formal result accessible.** The paper and proof are public, timestamped, and citable. Anyone can read them, compile the proof, and verify the result independently. The compiler is the only gatekeeper that matters — and it has already ruled.
 
-## What We Are Building
+**Build instruments anyone can use.** The Maintenance Test operationalizes the constraint into a practical field instrument. If something must be held up to survive — by authority, by social pressure, by asymmetric standards, by enforced consensus — it is not built on Bedrock. Anyone can apply this. No formal training required.
 
-We are building the diagnostic infrastructure to make structural truth measurable at scale — across media, institutions, policy, and public discourse.
-
-Not suspicion. Not grievance. Measurement.
-
-The Maintenance Test is the first public instrument. It is a three-step field guide anyone can use, in any domain, to determine whether a claim is self-sustaining or being held together by force. The Bedrock Statement is the foundational document. Everything points back to the same constraint, and everything is independently verifiable.
-
-This work is funded independently because it cannot be funded any other way. The institutions we are analyzing cannot be the institutions that pay for the analysis.
-
-We are coming to our community — the faithful, the discerning, those who already know in their bones that something is structurally wrong with the world's narrative infrastructure — because they are the right people to fund this.
-
-Not because they are the only ones who will benefit. Everyone benefits when measurement replaces maintenance.
-
-**But because they already know what we proved.**
+**Force engagement on the work's own terms.** The falsification conditions are explicit. The proof is public. The standard is structural, not social. Anyone who disagrees is invited to produce a demonstrated counterexample. Not a critique. Not a dismissal. A counterexample.
 
 ---
 
-*The Bedrock Research Team — NohMad LLC — 2026*
+## The Standard
+
+The Bedrock Program holds itself to the same constraint it applies to everything else.
+
+Either this work satisfies idempotent closure and energetic viability — returning the same result under re-examination, within available capacity — or it does not persist as a determinate research program.
+
+We are not asking anyone to trust us. We are asking anyone who engages with this work to apply the only standard that has ever mattered:
+
+**Does it stay on its own — or does it have to be held?**
+
+---
+
+## Independence
+
+The Bedrock Program is independently funded. No institutional grants. No platform funding. No compromised independence.
+
+A research program that requires institutional approval to survive is not built on Bedrock.
+
+**[Fund The Bedrock Program on GiveSendGo](https://www.givesendgo.com/Bedrock-Program)**
+
+---
+
+## Contact
+
+**NohMad LLC — The Bedrock Research Team**
+NohMadllc@journalist.com
+[bedrockprogram.com](https://www.bedrockprogram.com)
+
+---
+
 *Consistency is Law. Selection is the Closure.*
+
+*The Bedrock Program — Independent Structural Research — NohMad LLC — 2026*
