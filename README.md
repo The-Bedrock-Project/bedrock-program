@@ -2,17 +2,17 @@
 
 **A formally verified structural constraint on determinate existence.**
 
------
+---
 
 ## What This Is
 
 The Bedrock Program is an independent structural research initiative built on a single formally verified result:
 
-> **Any entity that exists as a determinate form must satisfy two independent structural conditions: recursive closure and energetic viability. Violation of either condition is eliminative.**
+> **Any entity that exists as a determinate form must satisfy two independent structural conditions: idempotent closure and energetic viability. Violation of either condition is eliminative.**
 
 This is not a philosophical opinion. It has been machine-verified in Lean 4.
 
------
+---
 
 ## The Formal Result
 
@@ -22,14 +22,14 @@ This is not a philosophical opinion. It has been machine-verified in Lean 4.
 
 The proof establishes:
 
-- **Recursive Closure** — a form must return itself under iterated re-application of its defining boundary
+- **Idempotent Closure** — a form must return itself under iterated re-application of its defining boundary
 - **Energetic Viability** — maintenance cost must remain within available sustaining capacity at every step
 - **GCC Elimination** — any form containing a globally coupled contradiction cannot exist as a determinate entity
 - **Independence** — the two conditions filter independently (Theorem 2.3)
 - **Self-Application** — the constraint satisfies its own conditions by explicit calculation, without regress (Theorem 5.1)
 - **No Regress** — any well-formed denial of the constraint must itself satisfy the constraint in order to target it
 
------
+---
 
 ## To Compile the Proof
 
@@ -47,7 +47,7 @@ lake update && lake build
 
 No errors. No warnings. No gaps.
 
------
+---
 
 ## The Bedrock Statement
 
@@ -55,7 +55,7 @@ The one sentence that survives all scrutiny:
 
 **Reality consists of whatever can continue being itself without breaking. Everything else is elaboration.**
 
------
+---
 
 ## The Maintenance Test
 
@@ -71,20 +71,20 @@ Built on one question: **Does this persist on its own, or does it have to be hel
 
 **If the weight of proof is on you — you are standing in a cage.**
 
------
+---
 
 ## Falsification Conditions
 
 The constraint is refuted by demonstration of any of the following:
 
 1. A form persisting as determinate while containing a globally coupled contradiction with no stable partition witness
-1. A form re-identifiable across transformations while lacking any selective criterion
-1. A form with unbounded maintenance cost persisting indefinitely on finite sustaining capacity
-1. Demonstration that the constraint itself contains a GCC or violates energetic viability at the level of its own statement
+2. A form re-identifiable across transformations while lacking any selective criterion
+3. A form with unbounded maintenance cost persisting indefinitely on finite sustaining capacity
+4. Demonstration that the constraint itself contains a GCC or violates energetic viability at the level of its own statement
 
 Absent a demonstrated instance, the constraint stands.
 
------
+---
 
 ## Repository Contents
 
@@ -98,7 +98,7 @@ bedrock statement.docx       — The Bedrock Statement
 maintenance test v2.docx     — The Maintenance Test: A Structural Field Guide
 ```
 
------
+---
 
 ## Team
 
@@ -111,7 +111,7 @@ Framework integrity, research architecture, formal derivations, final editorial 
 
 **Alex Toal** — Distribution Lead / Content Strategist
 
------
+---
 
 ## Support This Work
 
@@ -119,7 +119,7 @@ The Bedrock Program is independently funded. No institutional grants. No platfor
 
 **[Fund The Bedrock Program on GiveSendGo](https://www.givesendgo.com/Bedrock-Program)**
 
------
+---
 
 ## Contact
 
@@ -127,7 +127,7 @@ The Bedrock Program is independently funded. No institutional grants. No platfor
 NohMadllc@journalist.com
 [bedrockprogram.com](https://www.bedrockprogram.com)
 
------
+---
 
 *Consistency is Law. Selection is the Closure.*
 
