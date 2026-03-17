@@ -13,13 +13,12 @@ The Bedrock Program is an independent structural research initiative founded on 
 
 This is not an opinion. It is a structural law. Any claim, institution, or system that requires continuous energy — social pressure, media cycles, asymmetric standards, enforcement mechanisms — to prevent its own collapse is not built on Bedrock. It is built on Sand.
 
-We are here to give the Church the tools to measure the difference.
+We are here to give the people the tools to measure the difference.
 
 -----
 
 ## The Foundation
-
-The Bible has always taught that truth is self-sustaining. What is real does not need permission to remain real. What is false cannot stand on its own — it must be held up.
+I was always taught that truth is self-sustaining. What is real does not need permission to remain real. What is false cannot stand on its own — it must be held up.
 
 Modern structural research has now formalized this ancient truth.
 
@@ -114,7 +113,7 @@ Content, syndication, public packaging, closing the loop between research and re
 
 ## The Mission
 
-We are building tools for the Church because the Church has always known what structural research is now proving:
+We are building tools for the people because the people has always known what structural research is now proving:
 
 What is built on the Rock stands. What is built on Sand falls.
 
