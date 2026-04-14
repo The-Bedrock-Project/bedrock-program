@@ -18,7 +18,7 @@ This is not a philosophical opinion. It has been machine-verified in Lean 4.
 
 **Paper:** *Persistence Without Contradiction: A Minimal Foundation for Existence* (2026)
 **DOI:** [10.5281/zenodo.19023530](https://zenodo.org/records/19023530)
-**Lean 4 Proof:** [bedrock_complete_proof.lean](./bedrock_complete_proof.lean) — compiles clean against Mathlib, no errors, no placeholders
+**Lean 4 Proof:** [OntologicalBedrock1.lean — compiles clean against Mathlib, no errors, no placeholders
 
 The proof establishes:
 
